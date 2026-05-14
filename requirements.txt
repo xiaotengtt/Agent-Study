@@ -1,0 +1,11 @@
+
+---
+
+## requirements.txt
+
+项目根目录新建`requirements.txt`，内容先写这个
+
+```txt
+langchain
+langchain-openai
+python-dotenv
